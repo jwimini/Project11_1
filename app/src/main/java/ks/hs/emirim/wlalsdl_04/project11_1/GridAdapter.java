@@ -50,6 +50,7 @@ public class GridAdapter extends BaseAdapter {
                 dialog.setIcon(R.drawable.fi);
                 dialog.setView(dialogView);
                 dialog.setNegativeButton("close",null);
+                dialog.show();
             }
         });
         return imgv;
