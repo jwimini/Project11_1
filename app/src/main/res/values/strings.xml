@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Project11_1</string>
+    <string name="poster_title1">뷰티인사이드</string>
+    <string name="poster_title2">라라랜드</string>
+    <string name="poster_title3">부다페스트</string>
+    <string name="poster_title4">겨울왕국</string>
+    <string name="poster_title5">Carol</string>
+    <string name="poster_title6">Amelie</string>
+    <string name="poster_title7">우리의 20세기</string>
+    <string name="poster_title8">Call me by your name</string>
+    <string name="poster_title9">어느 하녀의 일기</string>
+    <string name="poster_title10">The souvenir</string>
+
 </resources>
